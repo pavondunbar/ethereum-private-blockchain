@@ -12,7 +12,7 @@ Here are the steps to run the Geth IPC Client:
 
 geth attach /home/petros/eth-evm/data/PrivateBlockchain/geth.ipc (Starts the Geth IPC client)
 
-personal.newAccount() (creates your personal account on the Ethereum private Blockchain)
+personal.newAccount() (creates your personal account on the Ethereum Private Blockchain)
 
 eth.coinbase (shows your personal account hash)
 
